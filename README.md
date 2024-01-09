@@ -34,7 +34,7 @@ I am a Full Stack Web Developer with more than 8 years of professional experienc
 ---
 
 #### Full Stack Web Developer
-ZeBrand Inc., New York (Remote) | Oct 2019 - Present  
+ZeBrand Inc., New York (Remote) | Oct 2019 - Dec 2023 
 
 ■ ZeBrand is a brand-building platform with everything you need to plan, design and brand
 - Established a culture and framework for testing all new projects going forwards by setting up test environments and automated tests using PHPUnit, Docker and GitHub Actions, as well as hosting a book club on testing
