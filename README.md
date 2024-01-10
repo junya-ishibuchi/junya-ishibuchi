@@ -41,7 +41,7 @@ ZeBrand Inc., New York (Remote) | Oct 2019 - Dec 2023
 - Led a 4-person development team by vetting potential technologies to use and by implementing a fully tested AI-based font recommendation system from scratch using Next.js, React, tRPC, Tailwind CSS and LangChain
 - Led another 5-person team to fully localize ZeBrand by hosting weekly scrums, setting project milestones, and researching and selecting tools, which increased paid users by 157%
 - Implemented user-specific OGP images by using Laravel and optimized performance by introducing a load-distributing queue with Amazon SQS to manage image generation 
--Collaborated frequently with design and content marketing teams to plan and build new features using Figma and Storybook
+- Collaborated frequently with design and content marketing teams to plan and build new features using Figma and Storybook
 
 
 #### Software Enginner
