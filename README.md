@@ -37,20 +37,22 @@ I am a Full Stack Web Developer with more than 8 years of professional experienc
 ZeBrand Inc., New York (Remote) | Oct 2019 - Dec 2023 
 
 ■ ZeBrand is a brand-building platform with everything you need to plan, design and brand
-- Established a culture and framework for testing all new projects going forwards by setting up test environments and automated tests using PHPUnit, Docker and GitHub Actions, as well as hosting a book club on testing
-- As a tech lead, led a 3-person development team by vetting potential technologies to use and Implementing a fully tested AI-based font recommendation system proof of concept from scratch using Next.js, tRPC and LangChain
-- Led a team of 4 by hosting weekly scrums, setting project milestones, and researching and selecting tools, which contributed to localizing ZeBrand and increasing paid users by 157%
-- Implemented user-specific OGP images and optimized performance by introducing a load-distributing queue with Amazon SQS to manage image generation
-- Collaborated frequently with design and content marketing teams to plan and implement new features using Figma and Storybook
+- Established a culture and framework for testing by setting up test environments and automated tests using PHPUnit, Docker and GitHub Actions, as well as by hosting a book club on testing
+- Led a 4-person development team by vetting potential technologies to use and by implementing a fully tested AI-based font recommendation system from scratch using Next.js, React, tRPC, Tailwind CSS and LangChain
+- Led another 5-person team to fully localize ZeBrand by hosting weekly scrums, setting project milestones, and researching and selecting tools, which increased paid users by 157%
+- Implemented user-specific OGP images by using Laravel and optimized performance by introducing a load-distributing queue with Amazon SQS to manage image generation 
+-Collaborated frequently with design and content marketing teams to plan and build new features using Figma and Storybook
+
 
 #### Software Enginner
 Kakaku.com, Inc., Tokyo | Apr 2015 - Sept 2019
 
 ■ I was in charge of three web services: a social networking service for sharing videos and photos, a site aggregating real estate information, and a hotel accommodation booking site
-- As a tech lead, spearheaded new business initiatives, designed and estimated specs for web, database, and encoding servers, managed project progress, and developed and launched a social networking service for sharing photos and videos from scratch
-- Led the migration of a batch server for a website with 2 million unique users, including estimating specifications, identifying bottlenecks, conducting tests, and transitioning the database and key-value store to redundant configurations to optimize performance
-- Set-up a framework to obtain the effective data needed for sales strategies by implementing Metabase, custom-writing SQL queries for other departments and providing coaching on how to use them
-- Mentored and fully on-boarded a new hire with no prior programming experience to work full-stack in 3 months
+- As a tech lead, managed the project progress of a 5-person team, designed and estimated specs for web, database, and encoding servers, and launched a social networking service from scratch using Laravel and MySQL
+- Led the migration of a batch server for a website with 2 million unique users, by estimating specifications, identifying bottlenecks, conducting tests, and transitioning the database and key-value store to redundant configurations to optimize performance
+- Set-up a framework to obtain data for sales strategies by implementing Metabase, custom-writing SQL queries for other departments and providing coaching on how to use them
+- Mentored and fully on-boarded a new hire with no prior programming experience to work as a PHP Developer in 3 months
+
 
 ### 🌎　Contact Me
 
